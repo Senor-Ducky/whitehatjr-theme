@@ -1,0 +1,36 @@
+{
+    "name": "whitehatjr",
+    "displayName": "WhitehatJr. theme",
+    "description": "theme similar to whitehat's scratch editor ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "publisher": "Soulless",
+    "author": {
+        "name": "Soulless"
+    },
+    "categories": [
+        "Themes" 
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Soulless-404/whitehatjr-theme"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "whitehatjr. theme",
+                "uiTheme": "vs",
+                "path": "./themes/whitehatjr. theme-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "whitehat",
+        "whitehatjr",
+        "whitehat-theme",
+        "whitehatjr-theme"
+
+    ]
+}
